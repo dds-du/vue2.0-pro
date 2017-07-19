@@ -1,0 +1,677 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bagc",
+				"background-color"
+			],
+			[
+				"bo",
+				"bootstrap-theme.min.css"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"cas",
+				"case3/"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"la",
+				"layer"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"str",
+				"strokeStyle"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"c",
+				"collapse"
+			],
+			[
+				"tra",
+				"translateY()"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"r",
+				"rotate()"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"offset",
+				"offsetLeft"
+			],
+			[
+				"docu",
+				"documentElement"
+			],
+			[
+				"ont",
+				"ontouchend"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"se",
+				"setInterval"
+			],
+			[
+				"speed",
+				"speedY"
+			],
+			[
+				"con",
+				"cone"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"ro",
+				"rotateX()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"jq",
+				"jquery-2.0.3.js"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"bad",
+				"background"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"wor",
+				"word-break"
+			],
+			[
+				"tmx",
+				"TweenMax.js"
+			],
+			[
+				"m",
+				"module2.js"
+			],
+			[
+				"mo",
+				"module2.js"
+			],
+			[
+				"pr",
+				"preserve-3d"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"bg",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"of",
+				"overflow"
+			],
+			[
+				"b",
+				"bootstrap.css"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"colu",
+				"column-count"
+			],
+			[
+				"s",
+				"source	Tag"
+			],
+			[
+				"FlashUtil32_23_0_0_207_pepper",
+				"FlashUtil32_23_0_0_207_pepper.exe"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"star",
+				"startY"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"fi",
+				"fillRect"
+			],
+			[
+				"2",
+				"2.png	w:690 h:110"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"Min",
+				"getMinutes"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"en",
+				"endFn"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"offs",
+				"offsetLeft"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "vue",
+		"selected_items":
+		[
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"picp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/github.lnk",
+		"/F/github/dds/vue/src/views/about3.vue",
+		"/F/github/dds/vue/src/views/about2.vue",
+		"/F/github/dds/vue/src/views/about1.vue",
+		"/F/github/dds/vue/src/router/index.js",
+		"/F/github/dds/vue/src/main.js",
+		"/F/github/dds/vue/src/App.vue",
+		"/E/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/F/wamp/www/anjile/index.php",
+		"/F/wamp/www/anjile/js/main.js",
+		"/F/wamp/www/anjile/source.php",
+		"/F/wamp/www/anjile/js/public.js",
+		"/F/wamp/www/anjile/js/case.js",
+		"/F/wamp/www/anjile/case.php",
+		"/F/wamp/www/anjile/css/source.less",
+		"/F/wamp/www/anjile/js/source.js",
+		"/F/wamp/www/anjile/php/banner.inc.php",
+		"/E/Sublime Text/Data/Packages/User/anjile.sublime-snippet",
+		"/F/wamp/www/anjile/css/source.css",
+		"/F/wamp/www/anjile/css/case.less",
+		"/F/wamp/www/anjile/js/index.js",
+		"/F/wamp/www/anjile/css/main.less",
+		"/F/wamp/www/anjile/php/head.inc.php",
+		"/F/wamp/www/anjile/css/case.css",
+		"/F/wamp/www/anjile/dds.vue",
+		"/E/Sublime Text/Data/Packages/User/snippet.sublime-snippet",
+		"/F/wamp/www/anjile/css/index.less",
+		"/E/Sublime Text/Data/Packages/User/php.sublime-snippet",
+		"/F/wamp/www/anjile/js/jquery-1.9.1.js",
+		"/F/wamp/www/anjile/php/footer.inc.php",
+		"/F/github/dds/vue/src/assets/css/index.css",
+		"/F/wamp/www/anjile/php/title.php",
+		"/F/github/dds/vue/package.json",
+		"/F/github/dds/vue/src/assets/css/about.css",
+		"/F/github/dds/vue/src/components/about.vue",
+		"/F/github/dds/vue/src/views/r_left.vue",
+		"/F/github/dds/vue/src/views/router_left.vue",
+		"/F/mynode/app.js",
+		"/F/mynode/routers/admin.js",
+		"/F/github/dds/vue/src/components/notfound.vue",
+		"/E/我的工具/bootstrap/css/bootstrap.css",
+		"/F/github/dds/vue/src/components/document.vue",
+		"/F/github/dds/vue/src/components/dds.vue",
+		"/F/github/dds/vue/src/assets/css/documt.css",
+		"/F/github/dds/vue/src/assets/css/dds.css",
+		"/F/github/dds/vue/build/webpack.base.conf.js",
+		"/F/github/dds/vue/index.html",
+		"/F/github/dds/vue2.0/package.json",
+		"/F/github/dds/vue2.0/src/components/Hello.vue",
+		"/F/github/dds/vue2.0/build/dev-server.js",
+		"/F/github/dds/vue2.0/build/webpack.base.conf.js",
+		"/F/github/dds/vue2.0/src/App.vue",
+		"/F/github/dds/vue2.0/src/components/dds.vue",
+		"/F/github/dds/vue2.0/src/main.js",
+		"/E/sublime3_old/Data/Packages/User/snippet.sublime-snippet",
+		"/F/github/dds/vue2.0/config/index.js",
+		"/F/wamp/www/vue/vue-dds/package.json",
+		"/F/wamp/www/vue/vue-dds/build/check-versions.js",
+		"/F/wamp/www/vue/vue-dds/config/index.js",
+		"/F/wamp/www/vue/vue-dds/build/utils.js",
+		"/F/github/dds/dds.html",
+		"/F/wamp/www/anjile/index.html",
+		"/F/wamp/www/vue/vue-dds/.eslintrc.js",
+		"/F/wamp/www/vue-test/tree.html",
+		"/F/mynode/package.json",
+		"/F/wamp/www/vue/vue.html",
+		"/F/mynode/routers/api.js",
+		"/F/mynode/routers/main.js",
+		"/E/nodejs_old/vue",
+		"/F/mynode/views/admin/index.html",
+		"/F/mynode/views/index.html",
+		"/F/mynode/public/index.css",
+		"/E/Sublime Text/Data/Packages/Nodejs/Nodejs.sublime-build",
+		"/F/mynode/1.js",
+		"/F/mynode/dds.txt",
+		"/E/nodejs/js/1.js",
+		"/E/nodejs/js/dds.txt",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/www/js/index.js",
+		"/C/wamp/www/dds/index.php",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/new/dds.php",
+		"/C/wamp/www/new/dds.html",
+		"/F/wamp/www/dds/css/index.css",
+		"/F/wamp/www/dds/css/case1.css",
+		"/F/wamp/www/dds/index.html",
+		"/F/wamp/www/phone/motion.html",
+		"/F/wamp/www/dds/css/case3.css",
+		"/F/wamp/www/dds/3dshow.html",
+		"/F/wamp/www/dds/js/index.js",
+		"/F/wamp/www/dds/case3.html",
+		"/F/wamp/www/dds/js/case3.js",
+		"/F/wamp/www/dds/other.html",
+		"/F/wamp/www/phone/reload.html",
+		"/E/站点/扫雷/main.js",
+		"/E/miaov/2016新官网-VIP会员课件资源目录压缩包/《vue.js实战开发系列》201702017课件/vue-development/app.js",
+		"/E/站点/3d导航.html",
+		"/E/job/vedio/index.html",
+		"/E/job/animat/animate.html",
+		"/F/wamp/www/dds/css/case2.css",
+		"/E/整站/dds/index.html",
+		"/E/整站/dds/zuma.html",
+		"/E/整站/dds/saolei.html",
+		"/E/整站/dds/case1.html",
+		"/E/整站/dds/case2.html",
+		"/E/整站/dds/3dshow.html",
+		"/E/整站/dds/css/case2.css",
+		"/E/整站/dds/css/case1.css",
+		"/E/job/c3/index.html",
+		"/E/整站/祖玛游戏/祖玛难度升级.html",
+		"/E/整站/dds/css/saolei.css",
+		"/E/miaov/2016新官网-VIP会员课件资源目录压缩包/《vue.js实战开发系列》20170303课件/vue-development/todos.html",
+		"/E/整站/3d图形/3d图形最终版.html",
+		"/E/miaov/2016新官网-VIP会员课件资源目录压缩包/《vue.js实战开发系列》20170303课件/2-props.html",
+		"/E/miaov/2016新官网-VIP会员课件资源目录压缩包/《vue.js实战开发系列》20170303课件/tree-component/2-tree.html",
+		"/E/job/vue/index.html",
+		"/E/miaov/2016新官网-VIP会员课件资源目录压缩包/《vue.js实战开发系列》201702017课件/vue-development/todos.html",
+		"/E/job/test.html",
+		"/F/wamp/www/vvv/quanbushipin.html",
+		"/F/wamp/www/video/videojs.html",
+		"/G/视频/css/quanbushipin.css",
+		"/E/job/vedio/videojs.html",
+		"/E/ckplayer6.8/js/offlights.js",
+		"/E/miaov/2016新官网-VIP会员课件资源目录压缩包/《vue.js实战开发系列》201702017课件/vue-development/app1.js",
+		"/E/job/job2/index.html",
+		"/E/job/job2/main.js",
+		"/E/站点/案例1/case1.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wrap\"",
+			"oH",
+			"from",
+			"require",
+			"title",
+			"image",
+			"pic1",
+			"circle",
+			"oAd",
+			"ad",
+			"url",
+			"$",
+			"filteredList",
+			"item",
+			"dblclick",
+			");",
+			"Deny from",
+			"http://",
+			"80",
+			"Documentroot",
+			"#",
+			"#typ",
+			"#type",
+			"obq",
+			"it",
+			"num",
+			"transform",
+			"(0deg",
+			"90",
+			"Y",
+			"X",
+			"“",
+			"container",
+			"conta",
+			"setIn",
+			"animate",
+			".append",
+			"appen",
+			"ctrl+shift+[",
+			"ctrl+shift+l",
+			"is_dir",
+			"ctrl+alt+a",
+			"f2",
+			"ctrl+alt+h",
+			"f12"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1018.0,
+		"last_filter": "a",
+		"selected_items":
+		[
+			[
+				"a",
+				"F:\\wamp\\www\\anjile\\css\\anjile.sublime-project"
+			],
+			[
+				"vue",
+				"F:\\github\\dds\\vue\\src\\router\\index.sublime-workspace"
+			]
+		],
+		"width": 1920.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
