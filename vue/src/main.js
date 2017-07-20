@@ -1,6 +1,8 @@
 // The Vue build version to load with the `import` command
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
+import MintUi from 'mint-ui'
+
 import App from './App'
 
 import router from './router'
@@ -13,6 +15,11 @@ require('./assets/js/bootstrap.min.js')*/
 require('./assets/less/index')
 require('./assets/css/about')
 
+//引用mint-ui组件
+Vue.use(MintUi)
+import {Button, Toast,MessageBox} from 'mint-ui'
+Vue.component('dds-btn',Button)
+Vue.component('dds-msg',MessageBox)
 // Vue.prototype.$dds = '自定义属性' //给根组件添加属性或者方法，组件可通过原型链寻找到
 Vue.use({
 	install(Vue,options){//添加自定义属性和方法

@@ -303,7 +303,7 @@
 			"file": "/C/Users/Administrator/Desktop/vue/vue/package.json",
 			"settings":
 			{
-				"buffer_size": 1809,
+				"buffer_size": 1875,
 				"line_ending": "Unix"
 			}
 		},
@@ -311,7 +311,7 @@
 			"file": "/C/Users/Administrator/Desktop/vue/vue/src/main.js",
 			"settings":
 			{
-				"buffer_size": 927,
+				"buffer_size": 1104,
 				"line_ending": "Unix"
 			}
 		},
@@ -324,34 +324,10 @@
 			}
 		},
 		{
-			"file": "/C/Users/Administrator/Desktop/vue/vue/src/store/index.js",
-			"settings":
-			{
-				"buffer_size": 459,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Administrator/Desktop/vue/vue/index.html",
-			"settings":
-			{
-				"buffer_size": 313,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Administrator/Desktop/vue/vue/src/components/vuex.vue",
-			"settings":
-			{
-				"buffer_size": 1001,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "/C/Users/Administrator/Desktop/vue/vue/src/App.vue",
 			"settings":
 			{
-				"buffer_size": 1409,
+				"buffer_size": 1473,
 				"line_ending": "Unix"
 			}
 		},
@@ -360,6 +336,22 @@
 			"settings":
 			{
 				"buffer_size": 452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/vue/vue/src/components/document.vue",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/vue/vue/src/components/vuex.vue",
+			"settings":
+			{
+				"buffer_size": 1001,
 				"line_ending": "Windows"
 			}
 		}
@@ -423,6 +415,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Administrator/Desktop/vue/vue/.babelrc",
+		"/C/Users/Administrator/Desktop/vue/vue/index.html",
+		"/C/Users/Administrator/Desktop/vue/vue/src/store/index.js",
 		"/E/站点/3dnav.html",
 		"/E/站点/祖玛游戏/bullet.js",
 		"/E/站点/祖玛游戏/ball.js",
@@ -547,10 +542,7 @@
 		"/F/站点/sea.html",
 		"/F/站点/bootstrap-3.3.0/dist/bootstrap.html",
 		"/F/站点/less/style/main.less",
-		"/F/站点/less/main.less",
-		"/F/站点/jq3.html",
-		"/F/站点/jquery.html",
-		"/F/站点/1.js"
+		"/F/站点/less/main.less"
 	],
 	"find":
 	{
@@ -615,7 +607,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -624,7 +616,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1809,
+						"buffer_size": 1875,
 						"regions":
 						{
 						},
@@ -646,7 +638,7 @@
 						"translation.y": 348.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -655,15 +647,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 927,
+						"buffer_size": 1104,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								656,
+								656
 							]
 						],
 						"settings":
@@ -672,10 +664,10 @@
 							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 348.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -703,7 +695,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3081.0,
+						"translation.y": 2559.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
@@ -711,65 +703,95 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/Administrator/Desktop/vue/vue/src/store/index.js",
+					"file": "/C/Users/Administrator/Desktop/vue/vue/src/App.vue",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 459,
+						"buffer_size": 1473,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								453,
-								453
+								474,
+								474
 							]
 						],
 						"settings":
 						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/vue-syntax-highlight-master/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "/C/Users/Administrator/Desktop/vue/vue/index.html",
+					"file": "/C/Users/Administrator/Desktop/vue/vue/src/components/about.vue",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 313,
+						"buffer_size": 452,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								108,
-								108
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/vue-syntax-highlight-master/vue.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 5,
+					"file": "/C/Users/Administrator/Desktop/vue/vue/src/components/document.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/vue-syntax-highlight-master/vue.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "/C/Users/Administrator/Desktop/vue/vue/src/components/vuex.vue",
 					"semi_transient": false,
 					"settings":
@@ -793,66 +815,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 261.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/Administrator/Desktop/vue/vue/src/App.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1409,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								636,
-								636
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/vue-syntax-highlight-master/vue.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Users/Administrator/Desktop/vue/vue/src/components/about.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 452,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/vue-syntax-highlight-master/vue.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 6,
@@ -915,15 +877,23 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "vs",
+		"last_filter": "huif",
 		"selected_items":
 		[
 			[
-				"vs",
+				"huif",
+				"F:\\wamp\\www\\huifankeji\\huifan.sublime-project"
+			],
+			[
+				"v",
 				"C:\\Users\\Administrator\\Desktop\\vue-server\\vue\\src\\vues.sublime-project"
 			],
 			[
 				"vues",
+				"C:\\Users\\Administrator\\Desktop\\vue-server\\vue\\src\\vues.sublime-project"
+			],
+			[
+				"vs",
 				"C:\\Users\\Administrator\\Desktop\\vue-server\\vue\\src\\vues.sublime-project"
 			],
 			[
@@ -933,10 +903,6 @@
 			[
 				"",
 				"F:\\wamp\\www\\anjile\\css\\job.sublime-project"
-			],
-			[
-				"v",
-				"F:\\github\\dds\\vue\\src\\router\\vue.sublime-workspace"
 			]
 		],
 		"width": 380.0
