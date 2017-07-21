@@ -2,7 +2,7 @@
   <div id="vue1"  class="main_cont">
     <h2>页面初始信息加载</h2>
     <div class="clear">
-    	 <router-link key="index" v-for="item,key in list" :to="{path:'/info/'+item.id+'?info=fl'}">{{item.name}}</router-link>
+    	 <router-link :key="$index" v-for="item of list" :to="{path:'/info/'+item.id+'?info=fl'}">{{item.name}}</router-link>
     </div>
    
  	<div class="info" v-if="userInfo.id">
@@ -56,6 +56,7 @@ export default {
  created(){
  	//console.log(this.$route.params);
 	this.getData();
+	//console.log(this.$route.query)
  },
  methods:{
  	getData(){
@@ -76,6 +77,10 @@ export default {
  	},
  	clickHandle2(){
  		this.$index.csl()
+ 	},
+ 	btnHandle(){
+ 		this.userInfo.name=5
+ 		console.log(this.userInfo)
  	}
  }
  	

@@ -9,9 +9,6 @@
     </ul>
     <!-- <router-view name="r_left"></router-view> -->
     <dds-btn>按钮</dds-btn>
-    <dds-msg>
-      
-    </dds-msg>
     <transition :name="trans">
          <router-view class="parent"></router-view>
     </transition>
